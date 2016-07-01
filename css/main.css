@@ -251,6 +251,7 @@ a:link, a:visited {
 /*ABOUT PAGE*/
 
 .about-wrap {
+    text-align: center;
     margin: 0 auto;
     margin-top: 6%;
     max-width: 700px;
